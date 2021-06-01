@@ -14,7 +14,7 @@ Make sure you add --save-dev switch to prevent this module from being loaded int
 
 
 
-First of all you need to add this module as a script into your **package.json**.
+First of all you need to add this module as a script into your **package.json**.  
 `
 ...
 "scripts": {
@@ -23,7 +23,7 @@ First of all you need to add this module as a script into your **package.json**.
     ...
 }
 ...
-`
+`  
 
 (you can name it "deploy" as shown in the example or give it any other name you want)
 There are 3 switches:  
