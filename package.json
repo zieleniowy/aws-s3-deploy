@@ -5,6 +5,9 @@
   "repository": "https://github.com/zieleniowy/next-aws-deploy.git",
   "author": "zieleniowy <m.rynkowski@zhr.pl>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index /out next-aws-deploy"
+  },
   "dependencies": {
     "next": "^10.2.3"
   },
