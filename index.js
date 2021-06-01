@@ -16,7 +16,6 @@ const provider = defaultProvider({
     configFilepath: path.join(__dirname, '../../', 'aws.config.json')
 });
 
-console.log(path.join(__dirname, '../../'));
 const client = new S3Client({ credentialDefaultProvider: provider });
   
 const run = async () => {

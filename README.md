@@ -1,5 +1,5 @@
 # s3-deploy-script
-This module was developed to fasten deployment of static hosted websites into amazon s3 buckets.
+This module was developed to fasten deployment of static hosted websites on amazon s3 buckets.
 
 ## install
 

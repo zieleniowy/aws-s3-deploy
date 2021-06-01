@@ -1,6 +1,6 @@
 {
   "name": "s3-deploy-script",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "main": "index.js",
   "repository": "https://github.com/zieleniowy/next-aws-deploy.git",
   "author": "zieleniowy <m.rynkowski@zhr.pl>",
